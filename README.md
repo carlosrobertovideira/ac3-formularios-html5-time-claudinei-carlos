@@ -33,3 +33,7 @@ Além do que for especificado em cada exercício, as seguintes caracterísitcas 
 * Todos os campos não botão devem ter um *label* conectado ao input designado cmo visto em sala de aula.
 * Toda submissão desses formulários deve ser feita por POST.
 * Use as TAG's HTML5 mais coerentes com o tipo de dado a ser obtido.
+
+## Autores
+
+Para rastreamento dos autores, escreva no arquivo *autores.json* a lista de autores responsáveis por esse exercício. Siga o modelo presente e coloque o nome e RA de cada um dos membros.
