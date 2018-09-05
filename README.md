@@ -18,9 +18,9 @@ Os testes foram construídos usando um framework de testes de javascript chamado
 
 Para fazer isso no Python, vocês podem usar o seguinte comando na pasta do exercício:
 
-'''
+´´´
     python -m http.server
-'''
+´´´
 
 Isso irá iniciar um servidor local com os arquivos de teste. Para ver o teste sendo executado, abra o navegador na URL _http://localhost:8000/TestesAC3.html_.
 
